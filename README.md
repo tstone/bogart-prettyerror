@@ -1,9 +1,17 @@
 bogart-prettyerror
 ==================
 
+
+
 What is it?
 -----------
 An upgraded version of ```bogart.middleware.error```
+
+
+What does it look like?
+-----------------------
+v0.0.1: http://www.flickr.com/photos/wastingtape/6738206705/in/photosstream/lightbox/
+
 
 Intallation
 -----------
